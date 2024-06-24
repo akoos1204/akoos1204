@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ákos</h1>
+<h1 align="center">Hi 👋, I'm Ákos!</h1>
 <h3 align="center">Software developer student from Hungary.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akoos1204&label=Profile%20views&color=0e75b6&style=flat" alt="tarcsi" /> </p>

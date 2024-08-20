@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ákos!</h1>
 <h3 align="center">Software developer student from Hungary.</h3>
 
-### <p align="center">☁️ waxnet ☁️</p>
 <p align= "center">
-  <img src="https://komarev.com/ghpvc/?username=waxnet">
+  <img src="https://komarev.com/ghpvc/?username=akoos1204">
 </p>
 
 -----

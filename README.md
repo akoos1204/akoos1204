@@ -1,4 +1,4 @@
-contact me on [email](mailto:zahoranszkyakos@gmail.com) :)
+contact me on [discord](https://discordapp.com/users/901131294476484689) :)
 
 
 📈 my github stats
